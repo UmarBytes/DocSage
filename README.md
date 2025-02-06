@@ -25,9 +25,6 @@ DocSage is an AI-powered skin condition diagnosis platform using the Swin Transf
 
 **Flask (Optional for deployment):** Can be used for creating a web-based interface to interact with the model.
 
-requirements.txt:
-Functionality: Lists all the required Python packages for the project, including PyTorch, NumPy, Matplotlib, and any other dependencies that need to be installed.
-
 
 # Contact Email
 For any inquiries or further details, please contact:
