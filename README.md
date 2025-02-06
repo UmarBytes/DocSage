@@ -3,10 +3,11 @@
 ## About DocSage
 DocSage is an AI-powered skin condition diagnosis platform using the Swin Transformer model. Built with PyTorch, it offers high-accuracy classification of 24 skin conditions, providing healthcare professionals and patients with a fast, reliable, and user-friendly diagnostic tool for early detection.
 
-# Completed at GIFT University
-# Supervisor: Dr. Fouqia Zafeer
-# Project Leader: Muhammad Umar
-# Collaboration with: Dr. Muhammad Faheem (HOD, CS Department), Jameel Ahmad, Usama, Nouman Shahid
+**Completed at GIFT University**
+**Supervisor: Dr. Fouqia Zafeer**
+**Project Leader: Muhammad Umar**
+# Collaboration with: 
+**Dr. Muhammad Faheem (HOD, CS Department), Jameel Ahmad, Usama, Nouman Shahid**
 
 # Project Features
 **High Diagnostic Accuracy:** Achieved a remarkable 97% accuracy in diagnosing 24 different skin conditions.
