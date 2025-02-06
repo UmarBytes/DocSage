@@ -18,8 +18,11 @@ DocSage is an AI-powered skin condition diagnosis platform using the Swin Transf
 
 # Technology Stack
 **PyTorch:** A deep learning framework used for implementing the Swin Transformer model and training the neural network.
+
 **Swin Transformer:** A state-of-the-art transformer-based model for image classification, known for its high performance in computer vision tasks.
+
 **Python:** Programming language used for the implementation and training of the model.
+
 **Flask (Optional for deployment):** Can be used for creating a web-based interface to interact with the model.
 
 requirements.txt:
