@@ -29,9 +29,20 @@ DocSage is an AI-powered skin condition diagnosis platform using the Swin Transf
 **Flask (Optional for deployment):** Can be used for creating a web-based interface to interact with the model.
 
 
-# Contact Email
-For any inquiries or further details, please contact:
+
+## Social Media & Connect 🌐
+
+**Research Paper Slides:** [Research Papeer Slides](https://github.com/UmarBytes/RESEARCH-PAPER-SLIDES-ICEPECC-2028)
+
+**Fiverr:** [UmarFarooq on Fiverr](https://www.fiverr.com/umarfarooq872?public_mode=true) – Need help with NLP, AI, ML, Deep Learning, LLMs, Data Science, or Computer Science? Let's collaborate!
+
+**Facebook:** [Umar Gujjar](https://www.facebook.com/mumar.gujjar.923?_rdc=1&_rdr#) – Stay connected for updates and support.
+
+**YouTube:** [UmarBytes of Life](https://www.youtube.com/@UmarBytesoflife) – Tune in for tutorials, guides, and programming discussions.
+
+**ORCID ID:** [Umar’s ORCID Profile](https://orcid.org/my-orcid?orcid=0009-0008-0919-6720) – Explore my research papers and academic contributions.
+
 **Email:** umarbytesoflife@gmail.com
 
-**Responsible: Muhammad Umar Farooq**
 
+**Responsible: Muhammad Umar Farooq**
